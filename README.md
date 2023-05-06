@@ -2,7 +2,7 @@
 # Machine Translation Demo using Streamlit and Googletrans
 
 Description:
-I built a Machine Translation Demo using Streamlit and Googletrans, which allows you to translate text from English to Malayalam, Hindi, or Tamil. The app uses Googletrans, a Python library that provides a free and unlimited interface to the Google Translate API, to perform the translations.
+Built a Machine Translation Demo using Streamlit and Googletrans, which allows you to translate text from English to Malayalam, Hindi, or Tamil. The app uses Googletrans, a Python library that provides a free and unlimited interface to the Google Translate API, to perform the translations.
 
 Instructions:
 Access the Machine Translation Demo through the Streamlit link provided.
